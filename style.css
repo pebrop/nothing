@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(download.jpg);
+}
+
+.chalu {
+    background-color: orange;
+    width: 100%;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 15vh
+}
+
+.t1{
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.fot{
+    position: absolute;
+    background-color: gray;
+    top: 90vh;
+    height: 10vh;
+    width: 100%;
+}
+
+.f{
+    color: white;
+    padding-top:10px ;
+}
